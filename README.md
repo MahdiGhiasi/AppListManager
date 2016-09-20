@@ -35,3 +35,8 @@ lad.LoadApps();
 ##Known issues
 
 - Currently the display name and publisher name of some *legacy* apps (those with *reference-based names*) cannot be retrieved. Modern apps (compiled for 8.1 or 10) with reference-based names will load fine though.
+
+
+##License
+
+You can use this library in your apps and modify it to fit your needs, as long as you mention the name `AppListManager` and the name of the publisher `Mahdi Ghiasi` with a link to this repository in Github.
