@@ -34,4 +34,4 @@ lad.LoadApps();
 
 ##Known issues
 
-- Curretnly the display name and publisher name of some *legacy* apps (those with *reference-based names*) cannot be retrieved.
+- Curretnly the display name and publisher name of some *legacy* apps (those with *reference-based names*) cannot be retrieved. Modern apps (compiled for 8.1 or 10) with reference-based names will load fine though.
